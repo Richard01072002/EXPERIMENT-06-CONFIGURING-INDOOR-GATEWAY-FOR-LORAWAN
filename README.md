@@ -88,5 +88,5 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## Results: 
-
+Hence the Gateway is configured successfully 
 
